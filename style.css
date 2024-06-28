@@ -1,0 +1,15 @@
+.nav{
+    background-color: navy;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.item{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+*{
+    margin: 0;
+}
